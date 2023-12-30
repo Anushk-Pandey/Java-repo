@@ -1,4 +1,4 @@
-// Java program that accepts 
+// Java program that give sum of array 
 // Array input from the user. 
 import java.util.Scanner; 
   
