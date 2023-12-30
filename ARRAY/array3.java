@@ -1,3 +1,4 @@
+// Java program that sort the  array 
 import java.util.Scanner;  
   
 public class array3  
