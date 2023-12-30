@@ -1,5 +1,5 @@
 // Java program that accepts 
-// array input from the user. 
+// Array input from the user. 
 import java.util.Scanner; 
   
 public class array1{ 
@@ -19,8 +19,7 @@ public class array1{
         int[] arr = new int[arr_size]; 
   
         // Take user elements for the array 
-        System.out.println( 
-            "Enter the elements of the array: "); 
+        System.out.println("Enter the elements of the array: "); 
         for (int i = 0; i < arr_size; i++) { 
             if (sc.hasNextInt()) { 
                 arr[i] = sc.nextInt(); 
